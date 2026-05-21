@@ -126,10 +126,7 @@ export default function ContactSection() {
         }}
       >
         <span className="font-mono" style={{ fontSize: '0.62rem', letterSpacing: '0.12em', color: 'var(--text-2)' }}>
-          © 2026 ILIAS. ALL RIGHTS RESERVED
-        </span>
-        <span className="font-mono" style={{ fontSize: '0.62rem', letterSpacing: '0.12em', color: 'var(--text-2)' }}>
-          DESIGNED &amp; BUILT BY ILIASDEV
+          © 2026 — LAUNCHED MAY 2026
         </span>
       </motion.div>
     </section>
